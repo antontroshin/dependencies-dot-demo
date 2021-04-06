@@ -1,0 +1,9 @@
+*.class
+*.log
+.idea
+.bsp/
+.vscode
+.metals
+metals.sbt
+target/
+.DS_Store
